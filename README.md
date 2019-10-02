@@ -25,7 +25,7 @@ What feature can you add to this repository ?
 - Improve documentation of this README.md
 - etc. 
 
-jespere ca va marcher hein inchallah comme on dit
+jespere ca va
 ## How to sign up?
 
 https://hacktoberfest.digitalocean.com
